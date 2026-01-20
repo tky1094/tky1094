@@ -18,5 +18,4 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
 </div>
-  ![44-pikachu-pixel-usagif](https://github.com/user-attachments/assets/8b81aba4-44a6-4706-a9ba-44ebd1a1dc43)
 </div>
